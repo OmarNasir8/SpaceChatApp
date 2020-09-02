@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143889334874",
+    "firebase_url": "https://spacechat-d7f2a.firebaseio.com",
+    "project_id": "spacechat-d7f2a",
+    "storage_bucket": "spacechat-d7f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143889334874:android:143b3fef649ff9a2474e63",
+        "android_client_info": {
+          "package_name": "com.omarn.spacechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143889334874-u0pmljtg2mbp6e423igji6hmha9cv41v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8kHYfoUINv_DxrgQxfQ8lOb7TSwRA4TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143889334874-u0pmljtg2mbp6e423igji6hmha9cv41v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
